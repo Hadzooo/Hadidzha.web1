@@ -1,0 +1,23 @@
+p{
+    column-count: 3;
+    margin: auto;
+    column-gap: 20px;
+}
+
+body {
+
+    background-color: rgb(186, 186, 243);
+    
+}
+
+.col {
+
+columns: 4 200px;
+text-align: justify;
+font-size: 20px;
+column-gap: 30px;
+column-rule: 2px dotted gray;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+letter-spacing: 1px;
+}
+
